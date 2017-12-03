@@ -1,8 +1,10 @@
 # xd60layout
 
-prepared on http://www.keyboard-layout-editor.com
+raw data from keyboard-layout-editor.com
 
-default layout (http://www.keyboard-layout-editor.com/#/gists/7ba7962c8479774d452e61f0104f75c6)
+links on wiki
+
+default layout
 
 ["ESC","!\n1","@\n2","#\n3","$\n4","%\n5","^\n6","&\n7","*\n8","(\n9",")\n0","_\n-","+\n=",{w:2},"Backspace"],
 
@@ -16,7 +18,7 @@ default layout (http://www.keyboard-layout-editor.com/#/gists/7ba7962c8479774d45
 
 
 
-fn layout (http://www.keyboard-layout-editor.com/#/gists/b811dfd6e21b36b272cc45ca07bcd691)
+fn layout
 
 ["~\n`","F1","F2","F3","F4","F5","F6","F7","F8","F9","F10","F11","F12",{w:2},"Del"],
 
