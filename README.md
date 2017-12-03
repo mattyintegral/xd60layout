@@ -1,6 +1,6 @@
 # xd60layout
 
-raw data from keyboard-layout-editor.com
+xd60 default layout from keyboard-layout-editor.com
 
 links on wiki
 
